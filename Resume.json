@@ -1,0 +1,60 @@
+{
+	"basics": {
+		"name": "Amit Mandawaria",
+		"label": "Student",
+		"picture": "https://github.com/amitmandawaria99/Resume/blob/main/IMG_20210731_215053.jpg?raw=true",
+		"email": "2019kucp1013@iiitkota.ac.in",
+		"phone": "8233940460",
+		"summary": "I am a passionate engineer looking for unique challenging roles in a dynamic and engaging environment. I have the ability to lead people and work diligently to achieve my goal.Currently I am Campus Ambassador of Coding Ninjas (Ed-tech company).",
+		"location": {
+			"address": "Ward No. 9,Near Churu Gate,Ramgarh Shekhawari",
+			"postalCode": "331024",
+			"city": "Sikar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "amitmandawaria99",
+				"url": "https://github.com/amitmandawaria99"
+			},
+			{
+				"network": "linkedin",
+				"username": "Amit Mittal",
+				"url": "https://www.linkedin.com/in/amit-mittal-4280671b1/"
+			},
+			{
+				"network": "Instagram",
+				"username": "amitmandawaria99",
+				"url": "https://www.instagram.com/amitmandawaria99/"
+			}
+		]
+	},
+	"work": [{
+		"company": "Coding Ninjas",
+		"position": "Campus Ambassador",
+		"website": "https://www.codingninjas.coma/",
+		"startDate": "2021-04-02",
+		"endDate": "2021-10-02",
+		"summary": "Coding Ninjas is a one stop destination for understanding data structures and building algorithms from scratch and Tech related courses."
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08 //Date",
+		"endDate": "2023",
+		"gpa": "7.78 (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Angular","Java","Python","MongoDB"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+}
